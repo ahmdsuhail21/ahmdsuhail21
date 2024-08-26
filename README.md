@@ -4,8 +4,8 @@
 
 📍 *Kochi,kerala*  
 📧 *Email:* [contact@suhail.com](mailto:ahammedsuhail2114@gmail.com)  
-🔗 *LinkedIn:* [Suhail]((https://www.linkedin.com/in/ahammed-suhail-803024257/))  
-👨‍💻 *GitHub:* [Suhail]((https://github.com/ahmdsuhail21))
+🔗 *LinkedIn:* [Suhail](https://www.linkedin.com/in/ahammed-suhail-803024257/)  
+👨‍💻 *GitHub:* [Suhail](https://github.com/ahmdsuhail21)
 
 
 ### Professional Highlights 🌟
