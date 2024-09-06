@@ -20,10 +20,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmdsuhail21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdsuhail21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ### Education 🎓
 *B.tech in Artificial intelligence and Data Science*, Rajagiri school Of Engineering and Technology
@@ -35,7 +31,4 @@
 - *Hackerrank:* Python Programming, sql
 
 [![](https://visitcount.itsvg.in/api?id=ahmdsuhail21&icon=0&color=0)](https://visitcount.itsvg.in)
-<!---
-ahmdsuhail21/ahmdsuhail21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
