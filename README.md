@@ -7,6 +7,8 @@
 🔗 *LinkedIn:* [Suhail](https://www.linkedin.com/in/ahammed-suhail-803024257/)  
 👨‍💻 *GitHub:* [Suhail](https://github.com/ahmdsuhail21)
 
+### Education 🎓
+*B.tech in Artificial intelligence and Data Science*, Rajagiri school Of Engineering and Technology
 
 ### Professional Highlights 🌟
 - *Data Science Intern* - Luminar Technolab, Kochi (06/2024 - Present)
@@ -19,10 +21,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=ahmdsuhail21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ahmdsuhail21&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmdsuhail21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### Education 🎓
-*B.tech in Artificial intelligence and Data Science*, Rajagiri school Of Engineering and Technology
 
 ### Certifications 📜
 - **Forage Accenture:** Data Analysis and Visualization Internship
